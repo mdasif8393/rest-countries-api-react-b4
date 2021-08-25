@@ -1,0 +1,8 @@
+.home-container{
+    display: flex;
+    background-color: rgb(245, 240, 240);
+}
+
+.countries-container{
+    width: 70%;
+}
